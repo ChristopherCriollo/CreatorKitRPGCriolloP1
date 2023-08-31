@@ -18276,16 +18276,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: 'Story: There is a strande person nearby'
       objectReference: {fileID: 0}
-    - target: {fileID: 5844055335241695358, guid: c14338f3a43e548bd89e6e11c7bcb803,
-        type: 3}
-      propertyPath: text
-      value: There is a strange person nearby
-      objectReference: {fileID: 0}
-    - target: {fileID: 5844055335241695358, guid: c14338f3a43e548bd89e6e11c7bcb803,
-        type: 3}
-      propertyPath: disableWhenDiscovered
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18607,12 +18597,7 @@ PrefabInstance:
     - target: {fileID: 5844055335241695358, guid: c14338f3a43e548bd89e6e11c7bcb803,
         type: 3}
       propertyPath: text
-      value: Oh just an archer? Thats not so strange after all.
-      objectReference: {fileID: 0}
-    - target: {fileID: 5844055335241695358, guid: c14338f3a43e548bd89e6e11c7bcb803,
-        type: 3}
-      propertyPath: disableWhenDiscovered
-      value: 0
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
