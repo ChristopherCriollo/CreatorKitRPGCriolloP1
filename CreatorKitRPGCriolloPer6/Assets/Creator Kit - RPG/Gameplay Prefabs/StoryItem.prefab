@@ -99,11 +99,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ID: 
-  text: There is a strange person nearby
+  text: Oh, just an archer! Thats not strange after all.
   audioClip: {fileID: 0}
   disableWhenDiscovered: 0
   cutscenePrefab: {fileID: 0}
-  _requiredStoryItems: []
+  _requiredStoryItems:
+  - {fileID: 0}
+  - {fileID: 5844055335241695358}
   _requiredInventoryItems: []
 --- !u!58 &4687385855220869698
 CircleCollider2D:
